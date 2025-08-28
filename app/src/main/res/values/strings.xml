@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="name_hint">Insert Your Name</string>
+    <string name="number_hint">Insert Your Student number</string>
+    <string name="name_value">...</string>
+    <string name="number_value">...</string>
+    <string name="button_name_value">Submit</string>
+    <string name="name_greet">My name is: </string>
+    <string name="empty_field">Field is empty</string>
+    <string name="number_greet">My Student Number is: </string>
+    <string name="invalid_number">Student number has to be 11 digits long</string>
+</resources>
